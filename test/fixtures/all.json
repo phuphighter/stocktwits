@@ -1,0 +1,414 @@
+
+{
+    "stream":
+    {
+        "title":"All StockTwits Updates",
+        "tweets":
+        [
+            {
+                "twitter_username":"djomegact",
+                "tweet_datetime":"Tue Aug 24 16:03:04 +0000 2010",
+                "status_id":22011790511,
+                "avatar_url":"http://a2.twimg.com/profile_images/625265638/603907224_l_normal.jpg",
+                "source":"<a href=\"http://twitter.com/\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "stocks":
+                [
+                ],
+                "tweet_text":"BSDM  $$",
+                "twitter_user_id":44966928
+            },
+            {
+                "twitter_username":"Alfietrade",
+                "tweet_datetime":"Tue Aug 24 16:02:22 +0000 2010",
+                "status_id":22011739461,
+                "avatar_url":"http://a3.twimg.com/profile_images/1101207435/type-103_normal.jpg",
+                "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "CRM"
+                ],
+                "tweet_text":"sold 1/3 $crm sept 115 calls 3.55 +1.07 $$",
+                "twitter_user_id":19664951
+            },
+            {
+                "twitter_username":"Lordvortex",
+                "tweet_datetime":"Tue Aug 24 16:01:45 +0000 2010",
+                "status_id":22011694301,
+                "avatar_url":"http://a3.twimg.com/profile_images/349714451/V_jpg_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "ES_F"
+                ],
+                "tweet_text":"$ES_F See a few Shooting Stars on different time frames. (Any excuse to play this) http://www.youtube.com/watch?v=4wlwOcCRGDg",
+                "twitter_user_id":18922164
+            },
+            {
+                "twitter_username":"theback9",
+                "tweet_datetime":"Tue Aug 24 16:01:45 +0000 2010",
+                "status_id":22011688610,
+                "avatar_url":"http://a3.twimg.com/profile_images/1095939731/theback9_normal.jpg",
+                "source":"<a href=\"http://github.com/cezarsa/chromed_bird\" rel=\"nofollow\">Chromed Bird</a>",
+                "stocks":
+                [
+                ],
+                "tweet_text":"US economy has a \u201crealistic possibility\u201d of falling into a Japanese-style economic slump\naccording to S&P\u2019s chief economist David Wyss. $$",
+                "twitter_user_id":45459750
+            },
+            {
+                "twitter_username":"tecktrdr",
+                "tweet_datetime":"Tue Aug 24 16:01:35 +0000 2010",
+                "status_id":22011681599,
+                "avatar_url":"http://a3.twimg.com/profile_images/110565707/002_normal.JPG",
+                "source":"<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "SPY"
+                ],
+                "tweet_text":"$spy ...rig would like 53 if spy can hold up",
+                "twitter_user_id":20431566
+            },
+            {
+                "twitter_username":"NoDoji",
+                "tweet_datetime":"Tue Aug 24 16:01:35 +0000 2010",
+                "status_id":22011679411,
+                "avatar_url":"http://a2.twimg.com/profile_images/1099514494/nodoji3_normal.jpg",
+                "source":"<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+                "stocks":
+                [
+                    "TNA"
+                ],
+                "tweet_text":"Back in $TNA 33.50",
+                "twitter_user_id":31064039
+            },
+            {
+                "twitter_username":"ZMoose12",
+                "tweet_datetime":"Tue Aug 24 16:01:06 +0000 2010",
+                "status_id":22011643488,
+                "avatar_url":"http://a1.twimg.com/profile_images/812532189/TDL_-_Copy_normal.jpg",
+                "source":"<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "TF_F"
+                ],
+                "tweet_text":"Potential double bottom on the 1m if 598.3 holds  $TF_F",
+                "twitter_user_id":17799120
+            },
+            {
+                "twitter_username":"TebeleG",
+                "tweet_datetime":"Tue Aug 24 16:00:49 +0000 2010",
+                "status_id":22011627836,
+                "avatar_url":"http://a0.twimg.com/profile_images/340182972/bullbearlogo920_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "ES_F"
+                ],
+                "tweet_text":"$ES_F : sustained break-down below 1053 shows daily chart bearish   ,
+                ",
+                "twitter_user_id":31103013
+            },
+            {
+                "twitter_username":"irvingrl",
+                "tweet_datetime":"Tue Aug 24 16:00:49 +0000 2010",
+                "status_id":22011623361,
+                "avatar_url":"http://a1.twimg.com/profile_images/279378005/100_2523_normal.JPG",
+                "source":"web",
+                "stocks":
+                [
+                    "IDI"
+                ],
+                "tweet_text":"$IDI bouncing nicely",
+                "twitter_user_id":27428504
+            },
+            {
+                "twitter_username":"clegger_2000",
+                "tweet_datetime":"Tue Aug 24 16:00:40 +0000 2010",
+                "status_id":22011607946,
+                "avatar_url":"http://a3.twimg.com/profile_images/734415019/han2_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "CIB"
+                ],
+                "tweet_text":"$CIB back to 60 after drop to 55 level.$$",
+                "twitter_user_id":18998599
+            },
+            {
+                "twitter_username":"RaveD",
+                "tweet_datetime":"Tue Aug 24 16:00:24 +0000 2010",
+                "status_id":22011581550,
+                "avatar_url":"http://a3.twimg.com/profile_images/72765407/eagle-flying-crop-sm_normal.gif",
+                "source":"<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "RDWR"
+                ],
+                "tweet_text":"$rdwr 4 year high",
+                "twitter_user_id":18641242
+            },
+            {
+                "twitter_username":"Benzinga",
+                "tweet_datetime":"Tue Aug 24 16:00:16 +0000 2010",
+                "status_id":22011581692,
+                "avatar_url":"http://a3.twimg.com/profile_images/1096192847/vers10_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "LEN",
+                    "XHB"
+                ],
+                "tweet_text":"Homebuilders Turn Positive $XHB,
+                 $LEN",
+                "twitter_user_id":44060322
+            },
+            {
+                "twitter_username":"aiki14",
+                "tweet_datetime":"Tue Aug 24 16:00:06 +0000 2010",
+                "status_id":22011568172,
+                "avatar_url":"http://a1.twimg.com/profile_images/1096964173/400x380avatar_normal.jpg",
+                "source":"&lt;a href=\"http://desktop.stocktwits.com/\" rel=\"nofollow\"&gt;StockTwits Desktop&lt;/a&gt;",
+                "stocks":
+                [
+                    "DX_F"
+                ],
+                "tweet_text":"Indeed RT @blackmarkt disturbing development in USD today r we losing r flight to safety status? drop the dollar on bad econ news $DX_F $$",
+                "twitter_user_id":21099562
+            },
+            {
+                "twitter_username":"fortune8",
+                "tweet_datetime":"Tue Aug 24 15:59:59 +0000 2010",
+                "status_id":22011560940,
+                "avatar_url":"http://a3.twimg.com/profile_images/272173831/green_7756_f8_normal.jpg",
+                "source":"<a href=\"http://reader2twitter.appspot.com/\" rel=\"nofollow\">Google2Tweet</a>",
+                "stocks":
+                [
+                    "OPEN"
+                ],
+                "tweet_text":"OpenTable: Stifel Cuts Rating To Hold On Valuation; Shrs Fall http://j.mp/cFaBDS $OPEN",
+                "twitter_user_id":15179596
+            },
+            {
+                "twitter_username":"tradeticket",
+                "tweet_datetime":"Tue Aug 24 15:59:59 +0000 2010",
+                "status_id":22011559151,
+                "avatar_url":"http://a3.twimg.com/profile_images/784016795/tradeticket_normal.png",
+                "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "BAC"
+                ],
+                "tweet_text":"$BAC hitting 52 week lows everyday!",
+                "twitter_user_id":41266644
+            },
+            {
+                "twitter_username":"Alfietrade",
+                "tweet_datetime":"Tue Aug 24 15:59:52 +0000 2010",
+                "status_id":22011553382,
+                "avatar_url":"http://a3.twimg.com/profile_images/1101207435/type-103_normal.jpg",
+                "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "RIMM"
+                ],
+                "tweet_text":"sold $rimm sept 47.5 calls 2.84 +.2 $$",
+                "twitter_user_id":19664951
+            },
+            {
+                "twitter_username":"maveric1k",
+                "tweet_datetime":"Tue Aug 24 15:59:52 +0000 2010",
+                "status_id":22011548971,
+                "avatar_url":"http://a1.twimg.com/profile_images/702052125/im-icon-stu-48x48_normal.gif",
+                "source":"web",
+                "stocks":
+                [
+                    "MRVL"
+                ],
+                "tweet_text":"$MRVL hod",
+                "twitter_user_id":17138181
+            },
+            {
+                "twitter_username":"fortune8",
+                "tweet_datetime":"Tue Aug 24 15:59:52 +0000 2010",
+                "status_id":22011547668,
+                "avatar_url":"http://a3.twimg.com/profile_images/272173831/green_7756_f8_normal.jpg",
+                "source":"<a href=\"http://reader2twitter.appspot.com/\" rel=\"nofollow\">Google2Tweet</a>",
+                "stocks":
+                [
+                    "VECO"
+                ],
+                "tweet_text":"Veeco: Citi Adds To \u201cTop Picks Live\u201d List After Recent 30% Slide http://j.mp/diIW0C $VECO",
+                "twitter_user_id":15179596
+            },
+            {
+                "twitter_username":"TebeleG",
+                "tweet_datetime":"Tue Aug 24 15:59:16 +0000 2010",
+                "status_id":22011503717,
+                "avatar_url":"http://a0.twimg.com/profile_images/340182972/bullbearlogo920_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "ES_F"
+                ],
+                "tweet_text":"$ES_F: 1,
+                044.25 ,
+                 some type of bottom,
+                 rally to 1,
+                058.25 hi,
+                 correction may be over   ,
+                ",
+                "twitter_user_id":31103013
+            },
+            {
+                "twitter_username":"FuturesTrader71",
+                "tweet_datetime":"Tue Aug 24 15:59:08 +0000 2010",
+                "status_id":22011499864,
+                "avatar_url":"http://a2.twimg.com/profile_images/538113430/businesslogo_FT71_normal.jpg",
+                "source":"<a href=\"http://twitpic.com\" rel=\"nofollow\">Twitpic</a>",
+                "stocks":
+                [
+                    "ES_F"
+                ],
+                "tweet_text":"$ES_F Intraday chart showing NVPOC at 1060.50 http://twitpic.com/2hsawl",
+                "twitter_user_id":39294671
+            },
+            {
+                "twitter_username":"vjland",
+                "tweet_datetime":"Tue Aug 24 15:59:01 +0000 2010",
+                "status_id":22011486661,
+                "avatar_url":"http://a1.twimg.com/profile_images/730711829/scottmccloud_normal.jpg",
+                "source":"<a href=\"http://seesmic.com/app\" rel=\"nofollow\">Seesmic Web</a>",
+                "stocks":
+                [
+                    "FSLR",
+                    "OIH"
+                ],
+                "tweet_text":"thanks god,
+                 i did not cut loss on $OIH and $FSLR in morning weakness. now it is fully recovered.",
+                "twitter_user_id":20217939
+            },
+            {
+                "twitter_username":"vjland",
+                "tweet_datetime":"Tue Aug 24 15:58:24 +0000 2010",
+                "status_id":22011430599,
+                "avatar_url":"http://a1.twimg.com/profile_images/730711829/scottmccloud_normal.jpg",
+                "source":"<a href=\"http://seesmic.com/app\" rel=\"nofollow\">Seesmic Web</a>",
+                "stocks":
+                [
+                    "BIDU",
+                    "PUT",
+                    "CALL"
+                ],
+                "tweet_text":"$BIDU,
+                 I intended 2 buy $CALL yesterday but mistakenly bot $PUT,
+                 I rectified the mistake in early morning and bot $CALL. profitable mistake.",
+                "twitter_user_id":20217939
+            },
+            {
+                "twitter_username":"hertcapital",
+                "tweet_datetime":"Tue Aug 24 15:58:17 +0000 2010",
+                "status_id":22011428286,
+                "avatar_url":"http://a0.twimg.com/profile_images/1043335832/2010_Personal_Photo_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "SAN"
+                ],
+                "tweet_text":"Looking at $SAN.",
+                "twitter_user_id":136842204
+            },
+            {
+                "twitter_username":"blackmarkt",
+                "tweet_datetime":"Tue Aug 24 15:57:51 +0000 2010",
+                "status_id":22011404214,
+                "avatar_url":"http://a0.twimg.com/profile_images/807632532/blackmarkt_logo_normal.jpg",
+                "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "DX_F"
+                ],
+                "tweet_text":"disturbing development in dollar today r we losing our flight to safety status? drop the dollar on bad econ news $DX_F $$",
+                "twitter_user_id":16667666
+            },
+            {
+                "twitter_username":"Alfietrade",
+                "tweet_datetime":"Tue Aug 24 15:57:47 +0000 2010",
+                "status_id":22011391916,
+                "avatar_url":"http://a3.twimg.com/profile_images/1101207435/type-103_normal.jpg",
+                "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "USO"
+                ],
+                "tweet_text":"took loss on $uso 32.07 -.83",
+                "twitter_user_id":19664951
+            },
+            {
+                "twitter_username":"nhowe",
+                "tweet_datetime":"Tue Aug 24 15:57:33 +0000 2010",
+                "status_id":22011377859,
+                "avatar_url":"http://a1.twimg.com/profile_images/1083881861/26115_368706091265_538531265_4165858_5965530_n_normal.jpg",
+                "source":"web",
+                "stocks":
+                [
+                    "TNA"
+                ],
+                "tweet_text":"stopped out $tna for + 3%",
+                "twitter_user_id":12310282
+            },
+            {
+                "twitter_username":"JohnKicklighter",
+                "tweet_datetime":"Tue Aug 24 15:57:21 +0000 2010",
+                "status_id":22011362838,
+                "avatar_url":"http://a2.twimg.com/profile_images/91303174/pic_normal.gif",
+                "source":"<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+                "stocks":
+                [
+                    "GBPUSD"
+                ],
+                "tweet_text":"This rebound from $GBPUSD makes an opportunity for those that believe the pair has entered reversal. Count me among those believers.",
+                "twitter_user_id":22973017
+            },
+            {
+                "twitter_username":"theback9",
+                "tweet_datetime":"Tue Aug 24 15:57:00 +0000 2010",
+                "status_id":22011335240,
+                "avatar_url":"http://a3.twimg.com/profile_images/1095939731/theback9_normal.jpg",
+                "source":"<a href=\"http://github.com/cezarsa/chromed_bird\" rel=\"nofollow\">Chromed Bird</a>",
+                "stocks":
+                [
+                ],
+                "tweet_text":"BOE\u2019s Weale makes cautious comments in London Times interview; says UK risks falling\nback into recession $$",
+                "twitter_user_id":45459750
+            },
+            {
+                "twitter_username":"bravedave",
+                "tweet_datetime":"Tue Aug 24 15:56:29 +0000 2010",
+                "status_id":22011307079,
+                "avatar_url":"http://a2.twimg.com/profile_images/362408478/colorsmoke_normal.jpg",
+                "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+                "stocks":
+                [
+                    "IYR"
+                ],
+                "tweet_text":"$IYR goes green",
+                "twitter_user_id":17118594
+            },
+            {
+                "twitter_username":"newberg_feed",
+                "tweet_datetime":"Tue Aug 24 15:56:29 +0000 2010",
+                "status_id":22011305026,
+                "avatar_url":"http://a2.twimg.com/profile_images/786737106/newberglogo_normal.png",
+                "source":"web",
+                "stocks":
+                [
+                    "ZS_F"
+                ],
+                "tweet_text":"Soybeans Future $ZS_F at new session High  $s_f $$ #soybeans 11:56:17.843",
+                "twitter_user_id":96036843
+            }
+        ],
+        "total":30,
+        "page":1
+    }
+}
